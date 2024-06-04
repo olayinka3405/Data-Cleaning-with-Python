@@ -1,5 +1,5 @@
 ## Summary
-This project demonstrates my competence in Python for data transformation and extraction. Using a hotel booking dataset, I performed data cleaning, transformation, and visualization to prepare the data for further analysis in business intelligence tools like Power BI.
+This project demonstrates my competence in Python for data transformation and extraction. Using an hotel booking dataset, I performed data cleaning, transformation, and visualization to prepare the data for further analysis in business intelligence tools like Power BI.
 
 ## Methodology
 The methodology followed in this project includes:
